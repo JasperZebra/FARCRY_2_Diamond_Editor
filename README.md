@@ -1,3 +1,9 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/JasperZebra/FARCRY_2_Diamond_Editor?style=for-the-badge&logo=github&color=ff8c00&logoColor=white&labelColor=8b4513)
+![Total Downloads](https://img.shields.io/github/downloads/JasperZebra/FARCRY_2_Diamond_Editor/total?style=for-the-badge&logo=github&color=ff8c00&logoColor=white&labelColor=8b4513) 
+![Platform](https://img.shields.io/badge/platform-windows-ff8c00?style=for-the-badge&logo=windows&logoColor=ff8c00&labelColor=8b4513)
+![Made for](https://img.shields.io/badge/made%20for-FARCRY_2-ff8c00?style=for-the-badge&logo=gamepad&logoColor=ff8c00&labelColor=8b4513) 
+![Tool Type](https://img.shields.io/badge/type-Diamond%20Editor-ff8c00?style=for-the-badge&logo=edit&logoColor=ff8c00&labelColor=8b4513)
+
 # 💎 Far Cry 2 Diamond Editor
 A simple, yet powerful tool to edit your diamond count in **FARCRY 2**.
 
